@@ -6,7 +6,8 @@ A Web Application that it's goal is to help me practice and understand better th
 * HTML 
 * CSS
 * Bootstrap
-* JavaScript/JQuery
+* JavaScript
+* JQuery
 
 ### Requirements
 Either Visual Studio, JSFiddle or JavaScript Console
