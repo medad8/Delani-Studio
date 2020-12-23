@@ -43,5 +43,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
  [Link to Live Site:](https://medad8.github.io/Delani-Studio/)
  ### Contact information
 * Email: [Email](mailto:medadorowe@gmail.com)
-* Phone number: [Phone](+254754 543 320)
+* Phone number: [Phone](+254 754 543 320)
 
