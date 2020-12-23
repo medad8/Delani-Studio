@@ -13,7 +13,7 @@ Either Visual Studio, JSFiddle or JavaScript Console
 
 ### Setup Instructions and Installation
 * Clone this repository to a location in your file system. 
-[git clone](https://medad8.github.io/gulf-service/)
+[git clone](https://medad8.github.io/Delani-Studio/)
 * Open terminal command line then navigate to the root folder of the application. cd Delani-Studio
 * Open index.html on your Browser.
 
@@ -39,6 +39,4 @@ If you find a bug (the website couldn't handle the query and or gave undesired r
 
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
 
-[Link to Live Site:](https://medad8.github.io/gulf-service/)
-###
-[Link to Live Site:](https://medad8.github.io/gulf-service/)
+ [Link to Live Site:](https://medad8.github.io/Delani-Studio/)
